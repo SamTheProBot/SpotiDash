@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" fill="none" viewBox="0 0 420 420">
+  <rect width="420" height="420" fill="#000" rx="80"/>
+  <path fill="url(#a)" d="M70 38.05c0-2.847 0-4.271.563-5.355a5 5 0 0 1 2.132-2.132C73.78 30 75.203 30 78.05 30h13.9c2.847 0 4.271 0 5.355.563a5 5 0 0 1 2.132 2.132c.563 1.084.563 2.508.563 5.355v343.9c0 2.847 0 4.271-.563 5.355a4.999 4.999 0 0 1-2.132 2.132c-1.084.563-2.508.563-5.355.563h-13.9c-2.847 0-4.271 0-5.355-.563a4.999 4.999 0 0 1-2.132-2.132C70 386.221 70 384.797 70 381.95V38.05Z"/>
+  <rect width="30" height="294.145" x="120" y="62.927" fill="url(#b)" rx="5"/>
+  <rect width="30" height="307.314" x="170" y="56.343" fill="url(#c)" rx="5"/>
+  <rect width="30" height="87.804" x="220" y="166.098" fill="url(#d)" rx="5"/>
+  <rect width="30" height="267.804" x="270" y="76.098" fill="url(#e)" rx="5"/>
+  <rect width="30" height="360" x="320" y="30" fill="url(#f)" rx="5"/>
+  <defs>
+    <linearGradient id="a" x1="70" x2="100" y1="210" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset=".576" stop-color="#11DC5B"/>
+      <stop offset=".966" stop-color="#04FF2C"/>
+    </linearGradient>
+    <linearGradient id="b" x1="120" x2="150" y1="210" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset=".576" stop-color="#11DC5B"/>
+      <stop offset=".966" stop-color="#04FF2C"/>
+    </linearGradient>
+    <linearGradient id="c" x1="170" x2="200" y1="210" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset=".576" stop-color="#11DC5B"/>
+      <stop offset=".966" stop-color="#04FF2C"/>
+    </linearGradient>
+    <linearGradient id="d" x1="220" x2="250" y1="210" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset=".576" stop-color="#11DC5B"/>
+      <stop offset=".966" stop-color="#04FF2C"/>
+    </linearGradient>
+    <linearGradient id="e" x1="270" x2="300" y1="210" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset=".576" stop-color="#11DC5B"/>
+      <stop offset=".966" stop-color="#04FF2C"/>
+    </linearGradient>
+    <linearGradient id="f" x1="320" x2="350" y1="210" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset=".576" stop-color="#11DC5B"/>
+      <stop offset=".966" stop-color="#04FF2C"/>
+    </linearGradient>
+  </defs>
+</svg>
